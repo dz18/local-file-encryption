@@ -1,0 +1,8 @@
+Passwords
+ |
+ |-BANK
+ |  |-email : placeholder@fake.com
+ |  |-password : placeholder
+ |-Github
+    |-email : placeholder@fake.com
+    |-password : F4K3pa55w0rd
